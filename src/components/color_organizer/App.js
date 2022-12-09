@@ -1,4 +1,4 @@
-// ./src/components/App.js
+// ./src/components/color_organizer/App.js
 
 import React, {useState} from "react";
 import colorData from "../../data/color-data.json";

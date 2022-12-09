@@ -1,4 +1,4 @@
-// ./src/components/Ingredient.js
+// ./src/components/app_menu/Ingredient.js
 
 import React from "react";
 

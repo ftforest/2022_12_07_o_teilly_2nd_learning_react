@@ -1,4 +1,4 @@
-// ./src/components/Instructions.js
+// ./src/components/app_menu/Instructions.js
 
 import React from "react";
 

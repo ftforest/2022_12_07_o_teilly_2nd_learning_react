@@ -1,4 +1,4 @@
-// ./src/components/IngredientsList.js
+// ./src/components/app_menu/IngredientsList.js
 
 import React from "react";
 import Ingredient from "./Ingredient";

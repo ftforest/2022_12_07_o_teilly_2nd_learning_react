@@ -1,4 +1,4 @@
-// ./src/components/ColorList.js
+// ./src/components/color_organizer/ColorList.js
 
 import React from "react";
 import Color from "./Color";

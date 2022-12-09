@@ -1,4 +1,4 @@
-// ./src/components/Color.js
+// ./src/components/color_organizer/Color.js
 
 import React from "react";
 import StarRating from "./StarRating";

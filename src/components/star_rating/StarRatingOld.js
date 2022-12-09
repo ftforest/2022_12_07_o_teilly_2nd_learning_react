@@ -1,4 +1,4 @@
-// ./src/components/StarRatingOld.js
+// ./src/components/star_rating/StarRatingOld.js
 
 import React, { Component } from "react";
 import {FaStar} from "react-icons/fa";

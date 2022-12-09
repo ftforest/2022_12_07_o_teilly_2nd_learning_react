@@ -1,4 +1,4 @@
-// ./src/components/Menu.js
+// ./src/components/app_menu/Menu.js
 
 import React from "react";
 import Recipe from "./Recipe";
