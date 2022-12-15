@@ -16,7 +16,6 @@ function Main() {
             <StarRating />
             <StarRatingOld totalStars={10} />
             <App />
-            <AddColorForm />
         </article>
     );
 }
